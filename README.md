@@ -7,6 +7,7 @@ Use this repository when an AI agent, crawler, or integration needs a stable pub
 ## Canonical resources
 
 - Developer resources: https://gstcranes.com/developers
+- SDK and CLI guide: https://gstcranes.com/sdk.md
 - Markdown developer guide: https://gstcranes.com/developers.md
 - OpenAPI: https://gstcranes.com/.well-known/openapi.json
 - API catalog: https://gstcranes.com/.well-known/api-catalog
@@ -16,6 +17,12 @@ Use this repository when an AI agent, crawler, or integration needs a stable pub
 - MCP endpoint: https://gstcranes.com/.well-known/mcp
 - A2A agent card: https://gstcranes.com/.well-known/agent-card.json
 - Agent Skills index: https://gstcranes.com/.well-known/agent-skills/index.json
+
+## Install the agent skill
+
+```bash
+npx skills add gkmex75/gstcranes-agent-rules
+```
 
 ## Core rules
 

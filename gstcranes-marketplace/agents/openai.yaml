@@ -1,0 +1,4 @@
+interface:
+  display_name: "GST Cranes Marketplace"
+  short_description: "Public GST Cranes research"
+  default_prompt: "Use GST Cranes public resources to research used cranes, companies, wanted ads, and model or location hubs."
