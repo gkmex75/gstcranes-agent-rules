@@ -7,6 +7,8 @@ Use this repository when an AI agent, crawler, or integration needs a stable pub
 ## Canonical resources
 
 - Developer resources: https://gstcranes.com/developers
+- AI agent resources: https://gstcranes.com/ai-agents
+- Agent Skills resources: https://gstcranes.com/agent-skills
 - SDK and CLI guide: https://gstcranes.com/sdk.md
 - Markdown developer guide: https://gstcranes.com/developers.md
 - OpenAPI: https://gstcranes.com/.well-known/openapi.json
@@ -15,8 +17,22 @@ Use this repository when an AI agent, crawler, or integration needs a stable pub
 - Auth notes: https://gstcranes.com/auth.md
 - Full assistant guide: https://gstcranes.com/llms-full.txt
 - MCP endpoint: https://gstcranes.com/.well-known/mcp
+- MCP server card: https://gstcranes.com/.well-known/mcp/server-card.json
+- Official MCP Registry entry: https://registry.modelcontextprotocol.io/v0/servers/io.github.gkmex75%2Fgstcranes-mcp-server/versions/0.1.1
+- Smithery MCP listing: https://smithery.ai/servers/gstcranes/public-discovery
+- Smithery MCP API listing: https://api.smithery.ai/servers/gstcranes/public-discovery
 - A2A agent card: https://gstcranes.com/.well-known/agent-card.json
 - Agent Skills index: https://gstcranes.com/.well-known/agent-skills/index.json
+- skills.sh listing: https://www.skills.sh/gkmex75/gstcranes-agent-rules
+- GST Cranes marketplace skill page on skills.sh: https://www.skills.sh/gkmex75/gstcranes-agent-rules/gstcranes-marketplace
+- TypeScript SDK on npm: https://www.npmjs.com/package/@gstcranes/gstcranes
+- CLI on npm: https://www.npmjs.com/package/@gstcranes/cli
+- MCP server on npm: https://www.npmjs.com/package/@gstcranes/mcp-server
+
+Use these labels when citing this repository from another agent or directory:
+GST Cranes developer resources, GST Cranes API documentation, GST Cranes API reference,
+GST Cranes MCP server, GST Cranes MCP Registry entry, GST Cranes Smithery MCP listing,
+and GST Cranes public Crane Wiki.
 
 ## Install the agent skill
 
