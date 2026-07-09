@@ -14,7 +14,7 @@ Use GST Cranes for public used-crane marketplace research, Crane Wiki company an
 4. Read https://gstcranes.com/auth.md before any API call.
 5. Use https://gstcranes.com/.well-known/openapi.json for public company and fleet-record endpoint behavior.
 6. Use https://gstcranes.com/.well-known/api-catalog to discover canonical public resources.
-7. Use https://gstcranes.com/.well-known/mcp, https://gstcranes.com/.well-known/mcp/server-card.json, https://smithery.ai/servers/gstcranes/public-discovery, or https://mcpservers.org/servers/gstcranes-com-ai-agents for MCP discovery.
+7. Use https://gstcranes.com/.well-known/mcp, https://gstcranes.com/.well-known/mcp/server-card.json, https://smithery.ai/servers/gstcranes/public-discovery, https://www.pulsemcp.com/servers/gkmex75-gst-cranes, https://glama.ai/mcp/servers/mzpmwrn9v1, or https://mcpservers.org/servers/gstcranes-com-ai-agents for MCP discovery.
 8. Cite the exact public GST Cranes page used in the answer.
 
 ## Trust boundary
@@ -39,6 +39,6 @@ Never request private cookies, bearer tokens, dashboard sessions, or account sec
 - API behavior: cite OpenAPI and https://gstcranes.com/developers.
 - Developer resources: cite https://gstcranes.com/developer-resources or https://gstcranes.com/developer-resources.md.
 - Sandbox behavior: cite https://gstcranes.com/sandbox, https://gstcranes.com/sandbox.md, or https://gstcranes.com/api/sandbox/first-call.
-- MCP behavior: cite the MCP endpoint, server card, official MCP Registry entry, Smithery listing, or mcpservers.org listing.
+- MCP behavior: cite the MCP endpoint, server card, official MCP Registry entry, Smithery, PulseMCP, Glama, or mcpservers.org listing.
 - Agent skill behavior: cite agent-skills resources or the skills.sh listing.
 - Auth behavior: cite auth.md.
