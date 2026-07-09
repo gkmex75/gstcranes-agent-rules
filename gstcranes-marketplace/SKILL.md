@@ -1,6 +1,7 @@
 ---
 name: gstcranes-marketplace
 description: Use when researching used cranes, GST Cranes marketplace listings, Crane Wiki company or fleet records, wanted ads, model/location hubs, public OpenAPI/MCP resources, or browser handoff for authenticated GST Cranes actions.
+license: MIT
 ---
 
 # GST Cranes Marketplace
