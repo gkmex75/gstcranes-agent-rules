@@ -30,6 +30,7 @@ GST Cranes exposes public discovery resources for agents and crawlers.
 - Official MCP Registry entry: https://registry.modelcontextprotocol.io/v0/servers/io.github.gkmex75%2Fgstcranes-mcp-server/versions/0.1.1
 - Smithery MCP listing: https://smithery.ai/servers/gstcranes/public-discovery
 - Smithery MCP API listing: https://api.smithery.ai/servers/gstcranes/public-discovery
+- mcpservers.org listing: https://mcpservers.org/servers/gstcranes-com-ai-agents
 - skills.sh listing: https://www.skills.sh/gkmex75/gstcranes-agent-rules
 - GST Cranes marketplace skill page on skills.sh: https://www.skills.sh/gkmex75/gstcranes-agent-rules/gstcranes-marketplace
 - TypeScript SDK on npm: https://www.npmjs.com/package/@gstcranes/gstcranes
