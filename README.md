@@ -6,6 +6,7 @@ Use this repository when an AI agent, crawler, or integration needs a stable pub
 
 ## Canonical resources
 
+- GitHub developer resources mirror: ./DEVELOPER_RESOURCES.md
 - GST Cranes developer resources: https://gstcranes.com/developer-resources
 - GST Cranes API documentation: https://gstcranes.com/developers
 - AI agent resources: https://gstcranes.com/ai-agents
