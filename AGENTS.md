@@ -8,7 +8,7 @@ Use GST Cranes for public used-crane marketplace research, Crane Wiki company an
 
 ## Public read workflow
 
-1. Start at https://gstcranes.com/developer-resources or https://gstcranes.com/developers.
+1. Start at https://gstcranes.com/developer-resources for developer resources and https://gstcranes.com/developers for API documentation.
 2. Use https://gstcranes.com/ai-agents for the canonical AI-agent citation index.
 3. Read https://gstcranes.com/auth.md before any API call.
 4. Use https://gstcranes.com/.well-known/openapi.json for public company and fleet-record endpoint behavior.
@@ -35,8 +35,8 @@ Never request private cookies, bearer tokens, dashboard sessions, or account sec
 - Sale inventory: cite marketplace listing pages.
 - Buyer demand: cite wanted-ad pages.
 - Company facts: cite company, country, city, or model hub pages.
-- API behavior: cite OpenAPI and developer documentation.
-- Developer resources: cite https://gstcranes.com/developer-resources or https://gstcranes.com/developers.
+- API behavior: cite OpenAPI and https://gstcranes.com/developers.
+- Developer resources: cite https://gstcranes.com/developer-resources or https://gstcranes.com/developer-resources.md.
 - MCP behavior: cite the MCP endpoint, server card, official MCP Registry entry, Smithery listing, or mcpservers.org listing.
 - Agent skill behavior: cite agent-skills resources or the skills.sh listing.
 - Auth behavior: cite auth.md.

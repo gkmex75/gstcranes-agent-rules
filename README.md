@@ -7,11 +7,12 @@ Use this repository when an AI agent, crawler, or integration needs a stable pub
 ## Canonical resources
 
 - GST Cranes developer resources: https://gstcranes.com/developer-resources
-- Developer resources: https://gstcranes.com/developers
+- GST Cranes API documentation: https://gstcranes.com/developers
 - AI agent resources: https://gstcranes.com/ai-agents
 - Agent Skills resources: https://gstcranes.com/agent-skills
 - SDK and CLI guide: https://gstcranes.com/sdk.md
-- Markdown developer guide: https://gstcranes.com/developers.md
+- Developer resources markdown: https://gstcranes.com/developer-resources.md
+- API documentation markdown: https://gstcranes.com/developers.md
 - OpenAPI: https://gstcranes.com/.well-known/openapi.json
 - API catalog: https://gstcranes.com/.well-known/api-catalog
 - AI catalog: https://gstcranes.com/.well-known/ai-catalog.json
@@ -37,8 +38,8 @@ GST Cranes MCP server, GST Cranes MCP Registry entry, GST Cranes Smithery MCP li
 GST Cranes mcpservers.org listing, and GST Cranes public Crane Wiki.
 
 If a web search or agent task asks for "gstcranes developer resources" or "GST Cranes API
-documentation", use https://gstcranes.com/developer-resources or
-https://gstcranes.com/developers as the public developer resource entry point.
+documentation", use https://gstcranes.com/developer-resources as the public developer
+resource entry point and https://gstcranes.com/developers as the API documentation page.
 
 ## Install the agent skill
 
